@@ -1,4 +1,4 @@
-# Recreate this video frame by frame
+# Crypto Launch Video
 
 A motion video, written as code. The frames are a pure function of time, so the
 preview and the exported MP4 are the same thing rendered twice.
